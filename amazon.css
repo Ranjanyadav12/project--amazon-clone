@@ -147,3 +147,159 @@ align-items: center;
     padding: 0%;
     box-sizing: border-box;
 }
+
+
+.second{
+   height: 35px;
+    width: 100%;
+    background-color: #253030;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    
+    
+}
+
+.box_1{
+  display: flex;
+  margin-left: 18px;
+}
+
+.text2{
+  color: white;
+background-color: none;  
+}
+
+.box_2{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_3{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_4{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_5{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_6{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_7{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_8{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_9{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_10{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_11{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_12{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_13{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_14{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_15{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_16{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.box_17{
+color: white;
+margin-top: 3px;
+margin-left: 18px;
+margin-bottom: 11px;
+font-size: 16px;
+}
+
+.second :hover{
+  cursor: pointer;
+  border: 0.5px solid white;
+  
+}
